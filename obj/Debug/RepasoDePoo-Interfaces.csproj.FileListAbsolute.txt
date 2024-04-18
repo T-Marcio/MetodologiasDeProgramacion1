@@ -1,0 +1,2 @@
+E:\marcio\P3r50n41\UNAJ\2024\1°Cuatrimestre\Metodologias_de_Programación_1\Modulo2024\Cursada\MetodologisaDeProg_1\RepasoDePoo-Interfaces\obj\Debug\RepasoDePoo-Interfaces.csproj.AssemblyReference.cache
+E:\marcio\P3r50n41\UNAJ\2024\1°Cuatrimestre\Metodologias_de_Programación_1\Modulo2024\Cursada\MetodologisaDeProg_1\RepasoDePoo-Interfaces\obj\Debug\RepasoDePoo-Interfaces.csproj.CoreCompileInputs.cache
