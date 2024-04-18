@@ -5,3 +5,10 @@ E:\marcio\P3r50n41\UNAJ\2024\1°Cuatrimestre\Metodologias_de_Programación_1\Mod
 E:\marcio\P3r50n41\UNAJ\2024\1°Cuatrimestre\Metodologias_de_Programación_1\Modulo2024\Cursada\MetodologisaDeProg_1\RepasoDePoo-Interfaces\obj\Debug\TPractico_Integral.csproj.CoreCompileInputs.cache
 E:\marcio\P3r50n41\UNAJ\2024\1°Cuatrimestre\Metodologias_de_Programación_1\Modulo2024\Cursada\MetodologisaDeProg_1\RepasoDePoo-Interfaces\obj\Debug\RepasoDePoo-Interfaces.exe
 E:\marcio\P3r50n41\UNAJ\2024\1°Cuatrimestre\Metodologias_de_Programación_1\Modulo2024\Cursada\MetodologisaDeProg_1\RepasoDePoo-Interfaces\obj\Debug\RepasoDePoo-Interfaces.pdb
+E:\marcio\P3r50n41\UNAJ\2024\1°Cuatrimestre\Metodologias_de_Programación_1\Modulo2024\Cursada\MetodologisaDeProg_1\MetodologisaDeProg_1\RepasoDePoo-Interfaces\bin\Debug\RepasoDePoo-Interfaces.exe.config
+E:\marcio\P3r50n41\UNAJ\2024\1°Cuatrimestre\Metodologias_de_Programación_1\Modulo2024\Cursada\MetodologisaDeProg_1\MetodologisaDeProg_1\RepasoDePoo-Interfaces\bin\Debug\RepasoDePoo-Interfaces.exe
+E:\marcio\P3r50n41\UNAJ\2024\1°Cuatrimestre\Metodologias_de_Programación_1\Modulo2024\Cursada\MetodologisaDeProg_1\MetodologisaDeProg_1\RepasoDePoo-Interfaces\bin\Debug\RepasoDePoo-Interfaces.pdb
+E:\marcio\P3r50n41\UNAJ\2024\1°Cuatrimestre\Metodologias_de_Programación_1\Modulo2024\Cursada\MetodologisaDeProg_1\MetodologisaDeProg_1\RepasoDePoo-Interfaces\obj\Debug\TPractico_Integral.csproj.AssemblyReference.cache
+E:\marcio\P3r50n41\UNAJ\2024\1°Cuatrimestre\Metodologias_de_Programación_1\Modulo2024\Cursada\MetodologisaDeProg_1\MetodologisaDeProg_1\RepasoDePoo-Interfaces\obj\Debug\TPractico_Integral.csproj.CoreCompileInputs.cache
+E:\marcio\P3r50n41\UNAJ\2024\1°Cuatrimestre\Metodologias_de_Programación_1\Modulo2024\Cursada\MetodologisaDeProg_1\MetodologisaDeProg_1\RepasoDePoo-Interfaces\obj\Debug\RepasoDePoo-Interfaces.exe
+E:\marcio\P3r50n41\UNAJ\2024\1°Cuatrimestre\Metodologias_de_Programación_1\Modulo2024\Cursada\MetodologisaDeProg_1\MetodologisaDeProg_1\RepasoDePoo-Interfaces\obj\Debug\RepasoDePoo-Interfaces.pdb

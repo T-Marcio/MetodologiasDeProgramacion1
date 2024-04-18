@@ -21,7 +21,7 @@ namespace TPractico_Integral
             Console.WriteLine(" informando multiple ");
             informar(multiple);
 
-
+            Console.WriteLine("Comprobanco cambios en git ");
             Console.WriteLine("Presione para continuar . . .");
             Console.ReadKey(true);
         }
